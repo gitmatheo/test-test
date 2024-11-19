@@ -1,4 +1,5 @@
 :root {
-  --test: #fff;
-  --test2: #111;
+--white: rgba(255, 255, 255, 1);
+--black: rgba(0, 0, 0, 1);
 }
+
