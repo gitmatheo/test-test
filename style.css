@@ -1,4 +1,7 @@
 :root {
-  --test: #fff;
-  --test2: #111;
+--token-1: rgba(255, 255, 255, 1);
+--token-2: rgba(84, 50, 35, 1);
+--asdasd: rgba(255, 255, 255, 1);
+--ddddd: rgba(255, 255, 255, 1);
 }
+
